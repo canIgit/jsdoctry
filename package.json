@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "Try to generate docs from source",
   "repository": {
-    "type": "",
-    "url": ""
-  },
+      "type": "git",
+      "url": "git://github.com/canIgit/jsdoctry"
+    },
   "author": "nseepana",
   "devDependencies": {
     "gulp": "^3.8.7",
