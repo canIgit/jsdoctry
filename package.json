@@ -1,0 +1,29 @@
+{
+  "name": "jsdoctry",
+  "version": "0.0.1",
+  "description": "Try to generate docs from source",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "nseepana",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-util": "^2.2.20",
+    "gulp-concat": "^2.3.4",
+    "gulp-browserify": "^0.5.0",
+    "jquery": "^2.1.1",
+    "lodash": "^3.10.0",
+    "gulp-jsdoc": "^0.1.4",
+    "gulp-compass": "^1.2.0",
+    "gulp-connect": "^2.0.6",
+    "gulp-if": "^1.2.4",
+    "gulp-uglify": "^0.3.1",
+    "gulp-minify-html": "^0.1.4"
+  },
+  "dependencies": {
+    "gulp-connect": "^2.2.0",
+    "gulp-shell": "^0.4.3",
+    "jsdoc": "^3.3.3"
+  }
+}
